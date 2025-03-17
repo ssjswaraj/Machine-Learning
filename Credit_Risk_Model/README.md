@@ -1,1 +1,1 @@
-This will contains all the projects related to machine learning
+This is the project i am currently working on
